@@ -11,14 +11,11 @@ if(!empty(
 {
 require_once(realpath($_SERVER["DOCUMENT_ROOT"]) .'/opencrypt_emiga.php');
 
+$do = opencrypt_emiga( $text , $type );
+echo $do;	
+	
 }
 
 
 else{ echo "Nothing here"; }
-?>
-<?php 
-
-$do = opencrypt_emiga( $text , $type );
-echo $do;
-
 ?>
