@@ -88,7 +88,7 @@
       </div> 
 
       <button  onclick="calculate()" class="btn btn-lg btn-primary btn-block" type="submit">Рассчитывать</button>
-      <p class="mt-5 mb-3 text-muted text-center">&copy;<?php echo date("Y");?> EmiGa <a href="https://github.com/eminmuhemmedi/opencrypt_emiga/">Посмотреть полный проект</a> </br> <a href="/app/en/">English</a> | <a href="/app/ru/">Русский</a> | <a href="/app/az/">Azərbaycanca</a></p>
+      <p class="mt-5 mb-3 text-muted text-center">&copy;<?php echo date("Y");?> EmiGa <a href="https://github.com/eminmuhammadi/opencrypt_emiga/">Посмотреть полный проект</a> </br> <a href="/app/en/">English</a> | <a href="/app/ru/">Русский</a> | <a href="/app/az/">Azərbaycanca</a></p>
     </div>
 
 
