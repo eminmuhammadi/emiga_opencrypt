@@ -32,7 +32,7 @@
     <meta property="og:locale:alternate" content="TR" />
     <meta property="og:type" content="website">
     <meta property="og:title" content="Asanlıqla istənilən yazını şifrələ və deşifrələ | OpenCrypt">
-    <meta property="og:url" content="<?php echo $url ;?>"
+    <meta property="og:url" content="<?php echo $url ;?>">
     <meta property="og:site_name" content="OpenCrypt">
     <meta property="og:image" content="/app/fav/android-icon-192x192.png">
     <meta name="twitter:card" content="summary_large_image">
