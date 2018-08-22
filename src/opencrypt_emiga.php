@@ -2,12 +2,12 @@
 
 function opencrypt_emiga( $_text, $_type) {
 	
-	$type 	 =  $_GET['type'];  // decrypt  --or  encrypt
-    $algo    =  $_GET['algo'];   // algorithm
-	$text 	 =  $_GET['text'];  //  string
-	$pkey  	 =  $_GET['pkey'];   //   public key
-	$skey    =  $_GET['skey'];  //    secret chip key
-	$route   =  $_GET['route']; //     route for keys
+	$type 	 =  $_GET['type'];   //     decrypt  --or  encrypt
+        $algo    =  $_GET['algo'];   //     algorithm
+	$text 	 =  $_GET['text'];   //     string
+	$pkey  	 =  $_GET['pkey'];   //     public key
+	$skey    =  $_GET['skey'];   //     secret chip key
+	$route   =  $_GET['route'];  //     route for keys
 
 
 	$i = 0;
