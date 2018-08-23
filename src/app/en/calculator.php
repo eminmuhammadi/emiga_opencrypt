@@ -103,7 +103,7 @@
         </button>
       </div>
       <div class="modal-body">
-        <p>Route is a <code>float</code> value . Route can help you crypt each pair of secret key and public key.Every route can help you repeat cryptor</p>
+        <p>Route can help you crypt each pair of secret key and public key.Every route can help you repeat cryptor</p>
       </div>
     </div>
   </div>
