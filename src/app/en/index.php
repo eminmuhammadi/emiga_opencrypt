@@ -5,7 +5,7 @@ $url = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Easly encrypt and decrypt any string | OpenCrypt</title>
+    <title>Easily encrypt and decrypt any string | OpenCrypt</title>
 
     <meta name="description" content="With using OpenCrypt tool you can easily encrypt and decrypt any string ">
     <meta name="keywords" content="OpenCrypt , opencrypt , opencrypt decrpyt , opencrypt encrypt">
