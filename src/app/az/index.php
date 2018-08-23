@@ -38,7 +38,7 @@ $url = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http
     <meta property="og:image" content="/app/fav/android-icon-192x192.png">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:description" content="OpenCrypt-dən istifadə edərək sən istənilən növ yazıları şifrələyə və deşifrləyə bilərsən">
-    <meta name="twitter:title" content="Asanlıqla istənilən yazını şifrələ və deşifrələ | OpenCrypt>
+    <meta name="twitter:title" content="Asanlıqla istənilən yazını şifrələ və deşifrələ | OpenCrypt">
     <meta name="twitter:image" content="/app/fav/android-icon-192x192.png">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <style type="text/css">
