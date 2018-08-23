@@ -1,4 +1,5 @@
-<?php ini_set("display_errors",0); ?>
+<?php ini_set("display_errors",0); 
+$url = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]"; ?>
 <!doctype html>
 <html hreflang="ru" lang="ru">
   <head>
