@@ -30,13 +30,13 @@ $url = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http
     <meta property="og:locale" content="RU">
     <meta property="og:locale:alternate" content="UA" />
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Легко шифровать и расшифровывать любую строку | OpenCrypt">
+    <meta property="og:title" content="Легко шифровать и расшифровывать любую текст | OpenCrypt">
     <meta property="og:url" content="<?php echo $url ;?>">
     <meta property="og:site_name" content="OpenCrypt">
     <meta property="og:image" content="/app/fav/android-icon-192x192.png">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:description" content="С помощью инструмента OpenCrypt вы можете легко шифровать и расшифровывать любую строку">
-    <meta name="twitter:title" content="Легко шифровать и расшифровывать любую строку | OpenCrypt">
+    <meta name="twitter:title" content="Легко шифровать и расшифровывать любую текст | OpenCrypt">
     <meta name="twitter:image" content="/app/fav/android-icon-192x192.png">
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
