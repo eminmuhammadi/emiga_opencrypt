@@ -35,7 +35,7 @@ $url = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http
     <meta property="og:site_name" content="OpenCrypt">
     <meta property="og:image" content="/app/fav/android-icon-192x192.png">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:description" content="С помощью инструмента OpenCrypt вы можете легко шифровать и расшифровывать любую строку">
+    <meta name="twitter:description" content="С помощью инструмента OpenCrypt вы можете легко шифровать и расшифровывать любую текст">
     <meta name="twitter:title" content="Легко шифровать и расшифровывать любую текст | OpenCrypt">
     <meta name="twitter:image" content="/app/fav/android-icon-192x192.png">
 
