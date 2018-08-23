@@ -7,7 +7,7 @@ $url = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Легко шифровать и расшифровывать любую текст | OpenCrypt</title>
     <link rel="canonical" href="<?php echo $url ;?>" />
-    <meta name="description" content="С помощью инструмента OpenCrypt вы можете легко шифровать и расшифровывать любую строку ">
+    <meta name="description" content="С помощью инструмента OpenCrypt вы можете легко шифровать и расшифровывать любую текст ">
     <meta name="keywords" content="OpenCrypt , opencrypt , opencrypt decrpyt , opencrypt encrypt">
     <link rel="apple-touch-icon" sizes="57x57" href="/app/fav/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/app/fav/apple-icon-60x60.png">
