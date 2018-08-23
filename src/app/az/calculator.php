@@ -103,8 +103,7 @@
         </button>
       </div>
       <div class="modal-body">
-        <p>Təkrar hər hansı bir <code>float</code> dəyişənidir
-        Təkrar sizə hər hansı bir açıq və gizli açarın yenidən şifrələməsini tənzimləyir.Hər bir maşrut üzrə hər dəfə açar cütlüyü yenidən şifrələnir</p>
+        <p>Təkrar sizə hər hansı bir açıq və gizli açarın yenidən şifrələməsini tənzimləyir.Hər bir maşrut üzrə hər dəfə açar cütlüyü yenidən şifrələnir</p>
       </div>
     </div>
   </div>
